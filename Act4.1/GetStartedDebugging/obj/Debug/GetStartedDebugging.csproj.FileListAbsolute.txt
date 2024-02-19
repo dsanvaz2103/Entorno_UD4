@@ -1,0 +1,12 @@
+C:\Users\dsanvaz2103\Desktop\Entorno de desarrollo\1 DAW\UD4\Act4.1\GetStartedDebugging\bin\Debug\GetStartedDebugging.exe
+C:\Users\dsanvaz2103\Desktop\Entorno de desarrollo\1 DAW\UD4\Act4.1\GetStartedDebugging\bin\Debug\GetStartedDebugging.pdb
+C:\Users\dsanvaz2103\Desktop\Entorno de desarrollo\1 DAW\UD4\Act4.1\GetStartedDebugging\obj\Debug\GetStartedDebugging.csproj.AssemblyReference.cache
+C:\Users\dsanvaz2103\Desktop\Entorno de desarrollo\1 DAW\UD4\Act4.1\GetStartedDebugging\obj\Debug\GetStartedDebugging.csproj.CoreCompileInputs.cache
+C:\Users\dsanvaz2103\Desktop\Entorno de desarrollo\1 DAW\UD4\Act4.1\GetStartedDebugging\obj\Debug\GetStartedDebugging.exe
+C:\Users\dsanvaz2103\Desktop\Entorno de desarrollo\1 DAW\UD4\Act4.1\GetStartedDebugging\obj\Debug\GetStartedDebugging.pdb
+C:\Users\dsanvaz2103\Desktop\1DAW\Entorno de desarrollo\UD4\Act4.1\GetStartedDebugging\bin\Debug\GetStartedDebugging.exe
+C:\Users\dsanvaz2103\Desktop\1DAW\Entorno de desarrollo\UD4\Act4.1\GetStartedDebugging\bin\Debug\GetStartedDebugging.pdb
+C:\Users\dsanvaz2103\Desktop\1DAW\Entorno de desarrollo\UD4\Act4.1\GetStartedDebugging\obj\Debug\GetStartedDebugging.csproj.AssemblyReference.cache
+C:\Users\dsanvaz2103\Desktop\1DAW\Entorno de desarrollo\UD4\Act4.1\GetStartedDebugging\obj\Debug\GetStartedDebugging.csproj.CoreCompileInputs.cache
+C:\Users\dsanvaz2103\Desktop\1DAW\Entorno de desarrollo\UD4\Act4.1\GetStartedDebugging\obj\Debug\GetStartedDebugging.exe
+C:\Users\dsanvaz2103\Desktop\1DAW\Entorno de desarrollo\UD4\Act4.1\GetStartedDebugging\obj\Debug\GetStartedDebugging.pdb
